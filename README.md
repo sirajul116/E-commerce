@@ -32,3 +32,11 @@
    3. use state hook
    4. use effect hook
    5. use reducer hook
+7. Manage State By Reducer Hook
+   1. define reducer
+   2. update fetch data
+   3. update fetch data
+   4. get state from usReducer
+8. Add bootstrap UI Framework
+   1. npm install react-bootstrap bootstrap
+   2. update App.js
